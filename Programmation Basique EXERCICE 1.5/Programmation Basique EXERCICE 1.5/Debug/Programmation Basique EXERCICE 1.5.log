@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Solange\SAE Institute\Programmation Basique\Programmation Basique EXERCICE 1.5\Programmation Basique EXERCICE 1.5\main.cpp(13,19): warning C4244:  'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\Solange\SAE Institute\Programmation Basique\Programmation Basique EXERCICE 1.5\Programmation Basique EXERCICE 1.5\main.cpp(14,17): warning C4244:  '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Solange\SAE Institute\Programmation Basique\Programmation Basique EXERCICE 1.5\Programmation Basique EXERCICE 1.5\main.cpp(21,23): warning C4244:  '=' : conversion de 'double' en 'float', perte possible de données
+  Programmation Basique EXERCICE 1.5.vcxproj -> C:\Users\Solange\SAE Institute\Programmation Basique\Programmation Basique EXERCICE 1.5\Debug\Programmation Basique EXERCICE 1.5.exe

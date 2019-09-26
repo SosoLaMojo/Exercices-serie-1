@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Solange\SAE Institute\Programmation Basique\Programmation Basique Exercices 1.4\Programmation Basique Exercices 1.4\main.cpp(13,18): warning C4244:  'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Solange\SAE Institute\Programmation Basique\Programmation Basique Exercices 1.4\Programmation Basique Exercices 1.4\main.cpp(18,13): warning C4244:  'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Programmation Basique Exercices 1.4.vcxproj -> C:\Users\Solange\SAE Institute\Programmation Basique\Programmation Basique Exercices 1.4\Debug\Programmation Basique Exercices 1.4.exe
